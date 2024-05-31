@@ -1,0 +1,143 @@
+{
+	"users": [
+		{
+			"uid": 1,
+			"name": "Kaity Nguyen",
+			"avatar": "https://phunuvietnam.mediacdn.vn/thumb_w/700/2019/12/31/kit3751-1577752746094160177222-crop-15777527529631648721258.jpg",
+			"address": { "city": "Haiduong", "country": "Vietnam" },
+			"age": 19,
+			"type": "INFJ",
+			"male": false,
+			"languages": ["english", "vietnamese"],
+			"hobbies": ["game", "cooking", "reading books"],
+			"jobs": ["student", "model"],
+			"followed": [2, 3],
+			"following": [2],
+			"posted": [1, 3]
+		},
+		{
+			"uid": 2,
+			"name": "Naenano",
+			"avatar": "https://i.pinimg.com/474x/aa/f8/5a/aaf85a2ec4c3a68d19cf2048fd54d4c2.jpg",
+			"address": { "city": "Shizuoka", "country": "Japan" },
+			"age": 20,
+			"type": "INFJ",
+			"male": false,
+			"languages": ["japanese", "korean"],
+			"hobbies": ["vlogging", "cooking", "movie"],
+			"jobs": ["youtuber", "model"],
+			"followed": [3],
+			"following": [1, 3],
+			"posted": [2, 5]
+		},
+		{
+			"uid": 3,
+			"name": "Issac Nguyen",
+			"avatar": "https://cdn.tuoitre.vn/zoom/700_700/471584752817336320/2023/6/2/isaac-trong-chuong-trinh-hanh-trinh-ruc-ro-16856658565711965613357-600-0-1647-2000-crop-1685666480964586590821.jpg",
+			"address": { "city": "Danang", "country": "Vietnam" },
+			"age": 22,
+			"type": "INFJ",
+			"male": false,
+			"languages": ["vietnamese"],
+			"hobbies": ["reading book", "sleeping"],
+			"jobs": ["actor", "singer"],
+			"followed": [1, 2],
+			"following": [1, 2],
+			"posted": [4, 6]
+		}
+	],
+	"posts": [
+		{
+			"pid": 1,
+			"auth": 1,
+			"content": "This is a beautiful day!",
+			"image": "https://i.pinimg.com/564x/80/0f/08/800f08f7bfe02b3b8eedad61b197608f.jpg",
+			"liked": [1, 2, 3],
+			"comment": [1, 2, 3, 4, 5],
+			"timestamp": 1707249081280
+		},
+		{
+			"pid": 2,
+			"auth": 2,
+			"content": "This is a beautiful day!",
+			"image": "https://yt3.googleusercontent.com/ytc/AIf8zZSWYGMRwXhw2lvUp-s3zsE4BDFE4v4u1CIBlrM3JQ=s900-c-k-c0x00ffffff-no-rj",
+			"liked": [1, 2, 3],
+			"comment": [1, 2, 3, 4, 5],
+			"timestamp": 1707249081280
+		},
+		{
+			"pid": 3,
+			"auth": 1,
+			"content": "This is a beautiful day!",
+			"image": "https://2sao.vietnamnetjsc.vn/images/2022/12/11/10/06/kaity-nguyen-2.jpg",
+			"liked": [2, 3],
+			"comment": [1, 2, 3, 4, 5],
+			"timestamp": 1707249081280
+		},
+		{
+			"pid": 4,
+			"auth": 3,
+			"content": "This is a beautiful day!",
+			"image": "https://vnn-imgs-f.vgcloud.vn/2019/03/02/09/isaac-toi-khong-co-hit-van-thanh-cong-lot-top-hang-dau.jpg",
+			"liked": [1, 2, 3],
+			"comment": [1, 2, 3, 4, 5],
+			"timestamp": 1707249081280
+		},
+		{
+			"pid": 5,
+			"auth": 2,
+			"content": "This is a beautiful day!",
+			"image": "https://i.pinimg.com/474x/aa/f8/5a/aaf85a2ec4c3a68d19cf2048fd54d4c2.jpg",
+			"liked": [1, 2, 3],
+			"comment": [1, 2, 3, 4, 5],
+			"timestamp": 1707249081280
+		},
+		{
+			"pid": 6,
+			"auth": 3,
+			"content": "This is a beautiful day!",
+			"image": "https://media.viez.vn/prod/2023/1/31/large_TRAN_9024_46433ce275.jpg",
+			"liked": [1, 2, 3],
+			"comment": [1, 2, 3, 4, 5],
+			"timestamp": 1707249081280
+		}
+	],
+	"comment": [
+		{
+			"cid": 1,
+			"writer": 1,
+			"content": "It is look good and i like it.",
+			"liked": [1, 2, 3]
+		},
+		{
+			"cid": 2,
+			"writer": 1,
+			"content": "It is look good and i like it.",
+			"liked": [1, 2, 3]
+		},
+		{
+			"cid": 3,
+			"writer": 1,
+			"content": "It is look good and i like it.",
+			"liked": [1, 2, 3]
+		},
+		{
+			"cid": 4,
+			"writer": 1,
+			"content": "It is look good and i like it.",
+			"liked": [1, 2, 3]
+		},
+		{
+			"cid": 5,
+			"writer": 1,
+			"content": "It is look good and i like it.",
+			"liked": [1, 2, 3]
+		},
+		{
+			"cid": 6,
+			"writer": 1,
+			"content": "It is look good and i like it.",
+			"liked": [1, 2, 3]
+		}
+	]
+}
